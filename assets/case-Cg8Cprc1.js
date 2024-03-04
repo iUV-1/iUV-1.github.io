@@ -1,0 +1,1 @@
+import{c as t,j as e,R as o}from"./bootstrap.min-Cs6wI8ul.js";import{A as r}from"./App-DAEkWCqj.js";t.createRoot(document.getElementById("root")).render(e.jsx(o.StrictMode,{children:e.jsx(r,{FoodHall:"Case"})}));
