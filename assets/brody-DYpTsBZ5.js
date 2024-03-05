@@ -1,0 +1,1 @@
+import{c as t,j as o,R as e}from"./bootstrap.min-Cs6wI8ul.js";import{A as r}from"./App-CXfotFAW.js";t.createRoot(document.getElementById("root")).render(o.jsx(e.StrictMode,{children:o.jsx(r,{FoodHall:"Brody"})}));
